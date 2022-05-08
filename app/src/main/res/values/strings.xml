@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FragmentExample</string>
+    <string name="news_author">Автор: %1$s</string>
+    <string name="news_1">Item 1</string>
+    <string name="news_2">Item 2</string>
+    <string name="news_3">Item 3</string>
+    <string name="news_4">Item 4</string>
+    <string name="news_5">Item 5</string>
+    <string name="news_6">Item 6</string>
+    <string name="back">Назад</string>
+</resources>
